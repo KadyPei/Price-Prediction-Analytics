@@ -1,0 +1,65 @@
+Ingest/Clean Data
+
+Note: All HDFS files and directories are under the directory user/oka217
+
+
+    311 Data
+        Ingest
+        -Run the getdata.py file in the data_ingest directory to retrieve the data and store in a csv
+        -Store this csv on HDFS in the project/input directory
+
+        Cleaning
+        -Run the MapReduce code in the 311 clean directory to clean the 311 data
+        -input is located in the project/input directory --> filename: 311data.csv on HDFS
+        -output should be located in the project/output folder on HDFS
+
+
+    Restaurant Inspection Data
+    	Ingest
+	-Download and store original Restaurant Inspection csv on HDFS in the project/input directory
+	-Take out the first line of input and save it 
+	
+	Cleaning 
+	-Run the MapReduce code in Inspection_clean directory to clean inspection data
+	-Output file (Restaurant_CLeanData tsv) should be located in the project/output folder on HDFS 
+  	-Run the Getzip MapReduce code in the etl_code/inspection_clean directory to separate the zipcode from the boroughh
+    	-Input file for this is located in the project/input directory on HDFS: filename: Restaurant_CleanData.tsv
+   	-Output for this code is stored in the project/sep_zip directory
+
+
+    Rolling Sales Data
+        Ingest
+        -Run preprocessor.py in the data_ingest directory which will export a file named rollingsales_inputdata.txt (comma separated)
+        -Send this to HDFS and put it in the project/input directory
+
+        Cleaning
+        -Run the MapReduce programs located in the rolling_sales_clean directory
+        -This uses the previously uploaded rollingsales_inputdata.txt file on HDFS
+        -This will output a file in the HDFS directory project/output
+    
+
+Aggregate and Create tables from data
+
+    311
+        -Run the 311_agg.sql file with beeline to create a table from the 311 data, aggregate it to obtain
+        the necessary columns and then write to file for further analysis in tableau.
+
+    Restaurant Inspection
+        -Run the rest_agg.sql file with beeline to create a table from the inspection data, aggregate it to obtain
+        the necessary columns and then write to file for further analysis in tableau. 
+
+
+    Rolling Sales
+     -Run the rolling_agg.sql file with beeline to create a table from the rolling sales data, aggregate it to obtain
+    the necessary columns and then write to file for further analysis in tableau.
+
+
+    Run the join_tables.sql file to create a joint table of data from all of the newly created tables
+
+
+    Get Names
+        -Run the get_res_names.py file in the data_ingest directory to retrieve more restaurant inspection data with
+        the names of the restaurants included.
+        -Store this file on hdfs in the project/tmp directory, filename --> rest_name.csv
+        -Run the names.sql file to create a table with the counts of restaurants per zipcode
+

@@ -1,0 +1,145 @@
+Bronx, ,34
+Bronx,10451,141
+Bronx,10452,93
+Bronx,10453,84
+Bronx,10454,72
+Bronx,10455,90
+Bronx,10456,73
+Bronx,10457,84
+Bronx,10458,168
+Bronx,10459,71
+Bronx,10460,62
+Bronx,10461,136
+Bronx,10462,125
+Bronx,10463,115
+Bronx,10464,36
+Bronx,10465,70
+Bronx,10466,83
+Bronx,10467,127
+Bronx,10468,89
+Bronx,10469,70
+Bronx,10470,38
+Bronx,10471,45
+Bronx,10472,90
+Bronx,10473,28
+Bronx,10474,29
+Bronx,10475,55
+Brooklyn, ,33
+Brooklyn,11201,391
+Brooklyn,11203,110
+Brooklyn,11204,129
+Brooklyn,11205,150
+Brooklyn,11206,165
+Brooklyn,11207,122
+Brooklyn,11208,103
+Brooklyn,11209,246
+Brooklyn,11210,76
+Brooklyn,11211,360
+Brooklyn,11212,96
+Brooklyn,11213,101
+Brooklyn,11214,183
+Brooklyn,11215,305
+Brooklyn,11216,173
+Brooklyn,11217,256
+Brooklyn,11218,139
+Brooklyn,11219,108
+Brooklyn,11220,366
+Brooklyn,11221,128
+Brooklyn,11222,197
+Brooklyn,11223,159
+Brooklyn,11224,79
+Brooklyn,11225,129
+Brooklyn,11226,172
+Brooklyn,11228,55
+Brooklyn,11229,119
+Brooklyn,11230,93
+Brooklyn,11231,159
+Brooklyn,11232,128
+Brooklyn,11233,75
+Brooklyn,11234,131
+Brooklyn,11235,157
+Brooklyn,11236,100
+Brooklyn,11237,243
+Brooklyn,11238,232
+Brooklyn,11239,15
+Brooklyn,11241,1
+Brooklyn,11242,1
+Brooklyn,11249,176
+Queens, ,106
+Queens,11001,2
+Queens,11004,26
+Queens,11005,2
+Queens,11040,13
+Queens,11101,252
+Queens,11102,78
+Queens,11103,197
+Queens,11104,89
+Queens,11105,130
+Queens,11106,131
+Queens,11109,6
+Queens,11354,362
+Queens,11355,176
+Queens,11356,52
+Queens,11357,63
+Queens,11358,124
+Queens,11360,18
+Queens,11361,115
+Queens,11362,39
+Queens,11363,10
+Queens,11364,45
+Queens,11365,49
+Queens,11366,44
+Queens,11367,43
+Queens,11368,212
+Queens,11369,81
+Queens,11370,20
+Queens,11371,5
+Queens,11372,281
+Queens,11373,217
+Queens,11374,83
+Queens,11375,174
+Queens,11377,178
+Queens,11378,79
+Queens,11379,37
+Queens,11385,260
+Queens,11411,18
+Queens,11412,40
+Queens,11413,39
+Queens,11414,47
+Queens,11415,30
+Queens,11416,44
+Queens,11417,59
+Queens,11418,76
+Queens,11419,82
+Queens,11420,76
+Queens,11421,66
+Queens,11422,32
+Queens,11423,26
+Queens,11426,27
+Queens,11427,17
+Queens,11428,37
+Queens,11429,24
+Queens,11430,103
+Queens,11432,151
+Queens,11433,24
+Queens,11434,64
+Queens,11435,89
+Queens,11436,18
+Queens,11691,36
+Queens,11692,8
+Queens,11693,31
+Queens,11694,34
+Queens,11697,4
+Staten Island, ,12
+Staten Island,10301,98
+Staten Island,10302,64
+Staten Island,10303,34
+Staten Island,10304,59
+Staten Island,10305,83
+Staten Island,10306,104
+Staten Island,10307,33
+Staten Island,10308,48
+Staten Island,10309,70
+Staten Island,10310,61
+Staten Island,10312,66
+Staten Island,10314,162

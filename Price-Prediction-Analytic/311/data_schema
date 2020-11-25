@@ -1,0 +1,17 @@
+Incident ZipCode - String
+    Zipcode where complaint was filed. 
+
+Created Date - Date/String
+    Date when complaint was Created.
+
+Closed Date - Date/String
+    Date when complaint was closed/resolved.
+
+Complaint Type - String
+    Type of complaint e.g noise, rodent, parking violation etc. 
+
+Borough - String
+    Borough in which complaint was filed. 
+
+Time to Resolve - Int
+    Number of days taken for incident to be closed/resolved

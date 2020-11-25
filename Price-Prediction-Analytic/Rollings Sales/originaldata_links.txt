@@ -1,0 +1,12 @@
+The data is here:
+
+https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page
+
+
+The direct links to get the files are:
+
+https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_manhattan.xls
+https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_bronx.xls
+https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_brooklyn.xls
+https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_queens.xls
+https://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/rollingsales_statenisland.xls
